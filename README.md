@@ -1,4 +1,3 @@
 # Olá, Mundo!
- Primeiro repositório versionado - Curso GitHub
-pelo curso em video
-linha adiciona pelo site github
+ Primeiro repositório versionado - Curso GitHubpelo curso em video
+ Essa linha foi adicionada pelo site github.
